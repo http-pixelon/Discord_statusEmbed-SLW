@@ -2,13 +2,3 @@
 Apenas um teste basico :v ~by pxn-k33
 
 Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
-Teste Teste Teste
