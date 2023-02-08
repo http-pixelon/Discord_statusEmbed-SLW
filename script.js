@@ -87,3 +87,4 @@ client.on('ready', async () => {
 });
 
 30000
+30000
