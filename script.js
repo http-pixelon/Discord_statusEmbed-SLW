@@ -85,3 +85,5 @@ client.on('ready', async () => {
     message.edit({embeds: [embed]});
   }, 30000);
 });
+
+30000
