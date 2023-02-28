@@ -1,3 +1,5 @@
+30000, 30000
+
 const usersToCheck = [
   { id: '78466034930718063869', name: 'PXNB' },
   { id: '93284960753489001918', name: 'CAROL' },
@@ -85,5 +87,4 @@ client.on('ready', async () => {
     message.edit({embeds: [embed]});
   }, 30000);
 });
-
 
